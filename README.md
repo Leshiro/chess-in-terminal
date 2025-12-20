@@ -12,9 +12,7 @@ This project focuses on implementing core chess mechanics, move validation, and 
 - Playable chess game in the terminal
 - Full move validation for all pieces
 - Pawn promotion
-- Turn-based system (White / Black)
 - Capture detection
-- Move counter
 - Colored board and pieces (ANSI escape codes)
 - Save & load game state
 
