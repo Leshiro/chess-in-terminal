@@ -32,7 +32,7 @@ If your terminal does not support ANSI colors, the board and pieces will not dis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chess-in-terminal.git
+   git clone https://github.com/Leshiro/chess-in-terminal.git
 2. Navigate into the project folder:
    ```bash
    cd chess-in-terminal
