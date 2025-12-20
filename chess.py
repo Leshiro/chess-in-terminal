@@ -2,7 +2,7 @@
 import os
 cwd = os.getcwd()
 print(f"\n{cwd}")
-save_path = f"{cwd}\saves"
+save_path = rf"{cwd}\saves"
 if not os.path.exists(save_path):
     os.makedirs(save_path)
 
@@ -157,7 +157,7 @@ def start_game():
     #load game data
     try: 
         file_name = game_state_file
-        with open(f"saves\{file_name}", 'r') as file:
+        with open(rf"saves\{file_name}", 'r') as file:
             file_content = file.read()
             coords_list = file_content.split("\n")
             turn = int(coords_list[0].replace("turn=",""))
@@ -474,7 +474,7 @@ def start_game():
         while saved == 0:
             file_name = input("\nSave file name: ")
             try:
-                with open(f"saves\{file_name}.txt", "x") as file:
+                with open(rf"saves\{file_name}.txt", "x") as file:
                     file.write(f"turn={turn}\nmoves={moves}")
                     for coord in coords:
                         coord_piece = coords[coord]
