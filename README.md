@@ -4,8 +4,8 @@ A fully playable **chess game in the terminal**, written **from scratch in Pytho
 
 This project focuses on implementing core chess mechanics, move validation, and a clean terminal UI — without using external chess libraries.
 
-> ⚠️ **Note:** This game requires a terminal that supports **ANSI color escape codes**.  
-> If your terminal does not support ANSI colors, the board and pieces will not display correctly.
+⚠️ **Note:** This game requires a terminal that supports **ANSI color escape codes**.  
+If your terminal does not support ANSI colors, the board and pieces will not display correctly.
 
 ---
 
