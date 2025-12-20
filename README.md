@@ -50,6 +50,6 @@ Last two characters → destination
 - `exit` / `quit` — Exit the game
 - `restart` — Restart the game
 
-## 💾 Save System
+## Save System
 Saved games are stored in the saves/ folder as `.txt` files.<br>
 You can load a save by entering its filename when starting the game.
