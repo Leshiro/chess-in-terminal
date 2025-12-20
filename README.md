@@ -41,15 +41,15 @@ If your terminal does not support ANSI colors, the board and pieces will not dis
    python chess.py
 
 ## Controls
-Moves are entered as 4 characters: `e2e4`
-First two characters → piece position
-Last two characters → destination
+- Moves are entered as 4 characters: `e2e4`
+- First two characters → piece position
+- Last two characters → destination
 
 ## Commands
-`save` — Save the current game
-`exit` / `quit` — Exit the game
-`restart` — Restart the game
+- `save` — Save the current game
+- `exit` / `quit` — Exit the game
+- `restart` — Restart the game
 
 ## 💾 Save System
-Saved games are stored in the saves/ folder as .txt files.
-You can load a save by entering its filename when starting the game.
+- Saved games are stored in the saves/ folder as .txt files.
+- You can load a save by entering its filename when starting the game.
