@@ -4,6 +4,9 @@ A fully playable **chess game in the terminal**, written **from scratch in Pytho
 
 This project focuses on implementing core chess mechanics, move validation, and a clean terminal UI — without using external chess libraries.
 
+> ⚠️ **Note:** This game requires a terminal that supports **ANSI color escape codes**.  
+> If your terminal does not support ANSI colors, the board and pieces will not display correctly.
+
 ---
 
 ## 🎮 Features
@@ -25,55 +28,28 @@ This project focuses on implementing core chess mechanics, move validation, and 
 
 ---
 
-## 🖥️ How to Play
+## How to Play
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/chess-in-terminal.git
-Navigate into the project folder:
+2. Navigate into the project folder:
+   ```bash
+   cd chess-in-terminal
+3. Run the game:
+   ```bash
+   python chess.py
 
-bash
-Copy code
-cd chess-in-terminal
-Run the game:
-
-bash
-Copy code
-python chess.py
-🧠 Controls
-Moves are entered as 4 characters:
-
-nginx
-Copy code
-e2e4
+## Controls
+Moves are entered as 4 characters: `e2e4`
 First two characters → piece position
-
 Last two characters → destination
 
-Commands
-save — Save the current game
-exit / quit — Exit the game
-restart — Restart from the beginning
+## Commands
+`save` — Save the current game
+`exit` / `quit` — Exit the game
+`restart` — Restart the game
 
-💾 Save System
-Saved games are stored in the saves/ folder
-
-You can load a save by entering its filename when starting the game
-
-🛠️ Built With Python 3
-No external libraries
-ANSI escape codes for color rendering
-
-📁 Project Structure
-powershell
-Copy code
-chess-in-terminal/
-│
-├── chess.py
-├── saves/
-│   └── *.txt
-├── .gitignore
-└── README.md
-
-📜 License
-This project is open-source and available under the MIT License.
+## 💾 Save System
+Saved games are stored in the saves/ folder as .txt files.
+You can load a save by entering its filename when starting the game.
