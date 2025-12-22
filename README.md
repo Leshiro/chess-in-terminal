@@ -13,10 +13,11 @@ If your terminal does not support ANSI colors, the board and pieces will not dis
 
 ### ✅ Implemented
 - Playable chess game in the terminal
+- Colored board and pieces (ANSI escape codes)
 - Full move validation for all pieces
 - Check detection
 - Pawn promotion
-- Colored board and pieces (ANSI escape codes)
+- Undoing moves
 - Save & load game state
 
 ### ❌ Not Implemented (Yet)
@@ -48,6 +49,7 @@ Moves are entered as 4 characters. e.g: `e2e4`
 - `save` — Save the current game
 - `exit` / `quit` — Exit the game
 - `restart` — Restart the game
+- `undo` — Undo move
 
 ## Save System
 - Saved games are stored in the `saves/` folder as `.txt` files.<br>
