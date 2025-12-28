@@ -7,14 +7,13 @@ This project focuses on implementing core chess mechanics, move validation, and 
 ## 🎮 Features
 
 ### ✅ Implemented
-- Playable chess game in the terminal
-- Colored board and pieces (ANSI escape codes)
+- Playable chess game with Pygame UI
 - Full move validation for all pieces
 - Check, checkmate, stalemate
 - Castling
 - Pawn promotion
 - Undoing moves
-- Save & load game state
+- Saving & loading games
 
 ### ❌ Not Implemented (Yet)
 - En passant
