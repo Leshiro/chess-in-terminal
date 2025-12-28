@@ -9,17 +9,16 @@ This project focuses on implementing core chess mechanics, move validation, and 
 - `Pygame 2.6.1`
 
 ## 🎮 Features
-
-### ✅ Implemented
-- Fully functional Pygame UI
+- Fully functional Pygame UI with buttons
 - Full move validation for all pieces
 - Check, checkmate, stalemate
 - Castling
 - Pawn promotion
 - Undoing moves
 - Saving & loading games
+- Changing board palette
 
-### ❌ Not Implemented Yet
+## ❌ Not Implemented Yet
 - En passant
 
 ## How to Run
