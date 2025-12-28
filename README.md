@@ -21,7 +21,7 @@ This project focuses on implementing core chess mechanics, move validation, and 
 ---
 
 ## 🛠️ Built With
-- Python 3.x
+- Python 3.13
 - Pygame
 
 ---
