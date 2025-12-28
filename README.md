@@ -46,6 +46,4 @@ chess-alpha/
 ├── saves/            # Saved games
 ├── engine.py         # Core engine
 ├── game.py           # Run file
-├── gui.py            # Pygame interface
-├── README.md         
-└── requirements.txt  # Required packages
+└── gui.py            # Pygame interface
