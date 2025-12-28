@@ -7,7 +7,7 @@ This project focuses on implementing core chess mechanics, move validation, and 
 ## 🎮 Features
 
 ### ✅ Implemented
-- Playable chess game with Pygame UI
+- Fully functional Pygame UI
 - Full move validation for all pieces
 - Check, checkmate, stalemate
 - Castling
