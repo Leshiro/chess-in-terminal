@@ -4,7 +4,7 @@ A fully functional **chess engine** written from scratch in Python.
 
 This project focuses on implementing core chess mechanics, move validation, and a clean Pygame UI — without using external chess libraries.
 
-## Features
+## ✔️ Features
 ### ⚙️ Engine
 - Full move validation for all pieces
 - Check, checkmate, stalemate
