@@ -30,10 +30,4 @@ This project focuses on implementing core chess mechanics, move validation, and 
    cd chess-alpha
 3. Run the game:
    ```bash
-   python run.py
-- `restart` — Restart the game
-- `undo` — Undo move
-
-## Save System
-- Saved games are stored in the `saves/` folder as `.txt` files.<br>
-- You can load a save by entering its filename when starting the game.
+   python game.py
