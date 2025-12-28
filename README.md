@@ -1,6 +1,6 @@
 # Chess Alpha ♟️
 
-A fully playable chess engine written from scratch in Python using Pygame.
+A fully functional **chess engine** written from scratch in Python.
 
 This project focuses on implementing core chess mechanics, move validation, and a clean Pygame UI — without using external chess libraries.
 
