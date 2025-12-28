@@ -22,14 +22,10 @@ This project focuses on implementing core chess mechanics, move validation, and 
 ### ❌ Not Implemented Yet
 - En passant
 
-## How to Run (ZIP Download)
-
+## How to Run
 1. Click **Code → Download ZIP** on this repository.
 2. Extract the ZIP file to a folder.
-3. Install the required dependencies:
-   ```bash
-   pip install pygame
-4. Open the folder and run `game.py` to run the game.
+3. Open the folder and run `game.py`.
 
 ## How to Run (Git Repo)
 1. Clone the repository:
