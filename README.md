@@ -28,18 +28,9 @@ This project focuses on implementing core chess mechanics, move validation, and 
 3. Open the folder and run `game.py`.
 
 ## How to Run (Git Repo)
-1. Clone the repository:
-```bash
-git clone https://github.com/Leshiro/chess-alpha.git
-```
-2. Navigate into the project folder:
-```bash
-   cd chess-alpha
-```
-3. Run the game:
-```bash
-python game.py
-```
+1. Clone the repository: `git clone https://github.com/Leshiro/chess-alpha.git`
+2. Navigate into the project folder: `cd chess-alpha`
+3. Run the game: `python game.py`
 
 ## 📁 Project Structure
 ``` bash
