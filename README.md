@@ -1,4 +1,4 @@
-# Chess Alpha
+# Chess Alpha ♟️
 
 A fully playable **chess engine**, written **from scratch in Python**.
 
