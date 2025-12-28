@@ -37,3 +37,13 @@ This project focuses on implementing core chess mechanics, move validation, and 
 3. Run the game:
    ```bash
    python game.py
+
+## 📁 Project Structure
+chess-alpha/
+├── assets/        # Images, icons, and resources
+├── permanent/     # Permanent game data
+├── saves/         # Saved games
+├── engine.py      # Core chess engine logic
+├── game.py        # Main game runner
+├── gui.py         # Pygame interface
+└── README.md
