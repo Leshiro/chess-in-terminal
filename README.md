@@ -42,6 +42,6 @@ chess-alpha/
 ├── colors.py      # Colors & palettes
 ├── config.py      # UI settings
 ├── engine.py      # Chess engine
-├── game.py        # Start file
+├── game.pyw       # Launcher
 └── gui.py         # Pygame UI
 ```
