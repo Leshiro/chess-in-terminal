@@ -7,17 +7,15 @@ This project focuses on designing & implementing a complete chess engine, withou
 ### ⚙️ Engine
 - Legal move validation for all pieces
 - Check, checkmate, stalemate
-- Castling
 - Pawn promotion
+- Castling
+- En passant
 - Undoing moves
 - Saving & loading games
 
 ### 🎮 Game UI
 - Clean Pygame UI with interactive buttons
 - Changing board palette
-
-### ❌ Not Implemented Yet
-- En passant
 
 ## 🛠️ Built With
 - `Python 3.13`
