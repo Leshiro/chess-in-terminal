@@ -32,8 +32,8 @@ This project focuses on designing & implementing a complete chess engine - witho
 3. Run the game: `python game.py`
 
 ## 📁 Project Structure
-``` bash
-chess-alpha/
+
+`chess-alpha/
 ├── assets/        # Images & audio
 ├── permanent/     # Permanent game data
 ├── saves/         # Saved games
@@ -41,5 +41,4 @@ chess-alpha/
 ├── config.py      # UI settings
 ├── engine.py      # Chess engine
 ├── game.pyw       # Launcher
-└── gui.py         # Pygame UI
-```
+└── gui.py         # Pygame UI`
