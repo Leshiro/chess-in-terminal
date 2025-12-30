@@ -21,8 +21,8 @@ This project focuses on designing & implementing a complete chess engine - witho
 - Changing board palette
 
 ## 🛠️ Built With
-- `Python 3.13`
-- `Pygame 2.6.1`
+- Python 3.13
+- Pygame 2.6.1
 
 ## How to Run
 1. Click **Code → Download ZIP** on this repository.
