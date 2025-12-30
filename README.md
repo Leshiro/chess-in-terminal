@@ -14,11 +14,13 @@ This project focuses on designing & implementing a complete chess engine - witho
 - Castling
 - En passant
 - Undoing moves
-- Saving & loading games
+- Save & load functionality
 
 ### 🎮 Game UI
+- Two boards (Both perspectives) 
 - Clean Pygame UI with interactive buttons
-- Changing board palette
+- Multiple piece sets
+- Multiple board palettes
 
 ## 🛠️ Built With
 - `Python 3.13`
