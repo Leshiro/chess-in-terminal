@@ -8,8 +8,6 @@ This project focuses on designing & implementing a complete chess engine - witho
 
 ![Chess Alpha](assets/images/image1.png)
 
-![Chess Alpha](assets/images/image2.png)
-
 ## ✔️ Features
 
 ### 🎮 Game UI
