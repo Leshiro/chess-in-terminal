@@ -21,8 +21,7 @@ This project focuses on designing & implementing a complete chess engine - witho
 - Changing board palette
 
 ## 🛠️ Built With
-- ![Python](https://img.shields.io/badge/python-3.13-blue)
-- ![Pygame](https://img.shields.io/badge/pygame-2.6.1-blue)
+- `Python 3.13`
 - `Pygame 2.6.1`
 
 ## How to Run
