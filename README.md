@@ -12,7 +12,7 @@ This project focuses on designing & implementing a complete chess engine - witho
 
 ### 🎮 Game UI
 - Two boards (both perspectives) 
-- Clean Pygame UI with interactive buttons
+- Clean Pygame UI with interactive controls
 - Multiple piece sets
 - Multiple board palettes
 
