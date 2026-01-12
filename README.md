@@ -32,7 +32,7 @@ This project focuses on designing & implementing a complete chess engine - witho
 ## How to Run
 1. Click **Code → Download ZIP** on this repository.
 2. Extract the ZIP file to a folder.
-3. Open the folder and run `game.py`.
+3. Open the folder and run `game.pyw`.
 
 ## How to Run (Alternative)
 1. Clone the repository: `git clone https://github.com/Leshiro/chess-alpha.git`
