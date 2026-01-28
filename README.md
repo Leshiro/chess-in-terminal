@@ -1,4 +1,4 @@
-# ♟️ Chess Alpha
+# ♟️ PyKnight
 
 ![Python](https://img.shields.io/badge/python-3.13-blue) ![Pygame](https://img.shields.io/badge/pygame-2.6.1-blue)
 
@@ -6,7 +6,7 @@ A complete & customizable **chess engine**, written from scratch in Python; incl
 
 This project focuses on designing & implementing a complete chess engine - without using external chess libraries.
 
-![Chess Alpha](assets/images/image1.png)
+![PyKnight](assets/images/image1.png)
 
 ## ✔️ Features
 
