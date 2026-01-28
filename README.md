@@ -35,13 +35,13 @@ This project focuses on designing & implementing a complete chess engine - witho
 3. Open the folder and run `game.pyw`.
 
 ## How to Run (Alternative)
-1. Clone the repository: `git clone https://github.com/Leshiro/chess-alpha.git`
-2. Navigate into the project folder: `cd chess-alpha`
+1. Clone the repository: `git clone https://github.com/Leshiro/py-knight`
+2. Navigate into the project folder: `cd py-knight`
 3. Run the game: `python game.pyw`
 
 ## 📁 Project Structure
 ``` bash
-chess-alpha/
+py-knight/
 ├── assets/        # Images & audio
 ├── permanent/     # Permanent game data
 ├── saves/         # Saved games
