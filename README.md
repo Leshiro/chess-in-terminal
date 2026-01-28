@@ -1,6 +1,6 @@
 # PyKnight ![Python](https://img.shields.io/badge/python-3.13-blue) ![Pygame](https://img.shields.io/badge/pygame-2.6.1-blue)
 
-![PyKnight](assets/brand/logo256.png)
+![PyKnight](assets/brand/name512.png)
 
 A complete & customizable **chess engine**, written from scratch in Python; including legal move validation, game-state management, save & load functionality, and a clean Pygame GUI with interactive controls. 
 
